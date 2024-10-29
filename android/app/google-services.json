@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30942702325",
+    "project_id": "appai-d1aec",
+    "storage_bucket": "appai-d1aec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30942702325:android:368ab4397263a4f095b3bc",
+        "android_client_info": {
+          "package_name": "com.example.appai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSNCg6QEFLyyGK6AqsrlwKVRvtcrM_f90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
